@@ -7,4 +7,5 @@ In this project we will assume the role of Data Journalist who is interested in 
 
 ### Results
 * Created a dynamic webpage with Javascript, HTML, CSS and Bootstrap, posting our UFO article along with our data into the webpage and adding a filter criteria for Date, City, State, Country and Shape so users can filter for specific sightings. 
-*  
+*  To search for a particular UFO sighting, please look at the image below
+![alt text](static/images/Search_1.PNG)
