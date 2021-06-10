@@ -8,4 +8,11 @@ In this project we will assume the role of Data Journalist who is interested in 
 ### Results
 * Created a dynamic webpage with Javascript, HTML, CSS and Bootstrap, posting our UFO article along with our data into the webpage and adding a filter criteria for Date, City, State, Country and Shape so users can filter for specific sightings. 
 *  To search for a particular UFO sighting, please look at the image below
+
+#### Search Crtiera 
 ![alt text](static/images/Search_1.PNG)
+
+Here we have a our webpage with the data and the search filters. We have placeholders in our filters as an example of how to carry out a search. Now to filter our search we will simply go to any of our search bars, type our criteria and enter it. For example if I want to search for sightings in california in the shape of a light, we will simply type "ca" as our state and "light" as our shape and press enter, we see our search filtered to all reported sightings in california in form of a shape. 
+
+![alt text](static/images/Search_executed.PNG)
+
